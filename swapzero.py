@@ -11,4 +11,4 @@ for i in list1 :
     else :
         list3.append(i)
         
-print(list3 + list2 )  
+print(list3 + list2)  
